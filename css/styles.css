@@ -1,0 +1,557 @@
+
+body {
+	font-family: "Montserrat", helvetica, sans-serif ;
+}
+
+/* welcome section starts here */
+#welcome {
+	background-color: #fff;
+}
+
+.logo  {
+	width: 10rem;
+}
+
+/* navigation menu styling starts here */
+
+nav {
+	list-style: none;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+.nav-menu{
+	text-align: right;
+	margin-top: -125px;
+}
+
+
+.nav_button {
+	border: solid 1px;
+	border-radius: 5px;
+	background-color: #fff;
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 35px;
+
+
+}
+
+.home-icon {
+	width: 1.5rem;
+	margin-left: -50px;
+	margin-bottom: -50px;
+	margin-top: -45px;
+
+}
+
+#home_button{
+	background-color: #2A0242;
+	color: #fff;
+}	
+
+.shopping-cart {
+	width: 1.5rem;
+	margin-left: -50px;
+	margin-bottom: -50px;
+	margin-top: -45px;
+
+}	
+
+.vip {
+	width: 1.5rem;
+	margin-left: -90px;
+	margin-bottom: -17px;
+	margin-top: -15px;
+}	
+
+.email{
+	width: 1.5rem;
+	margin-left: -70px;
+	margin-bottom: -20px;
+	margin-top: -15px;
+}
+
+ul{
+	margin-left:	5px;
+	margin-right: 5px;
+	margin-top: -5px;
+
+}
+
+.shop {
+	margin-top: -20px;
+}
+
+.VIP-Lounge {
+	margin-top: -20px;
+}
+
+.Contact{
+	margin-top: -20px;
+}
+
+/* navigation menu styling ends */
+
+.iphone-display{
+	margin-left: 8rem;
+	margin-top: 3rem;
+	width:	25rem;
+	
+
+}
+#iphone-display{
+	text-align: right;
+}
+
+.main-headline{
+	color: #2A0242;
+	margin-top:	130px;
+	margin-left: 80px;
+	font-weight: bold;
+	line-height: 1.5;
+}
+
+/*button styling*/
+
+/*shop now button*/
+.btn-shop-now{
+	border: solid 1px;
+	color: #2A0242;
+	background-color: #fff;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.btn-shop-now{
+	margin-left: 80px;
+	margin-right: 30px;
+	margin-top: 120px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
+
+/*icon styling*/
+.headline-shopping-cart{
+	width: 40px;
+}
+
+
+/*sign up now button*/
+
+.btn-sign-up{
+	border: solid 1px;
+	color: #fff;
+	background-color: #2A0242;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.btn-sign-up{
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 120px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
+
+/*icon styling*/
+.headline-vip{
+	width: 40px;
+}
+
+.vip-access{
+	color: #2A0242;
+	font-weight: bold;
+	font-size: 14px;
+	margin-left: 330px;
+}
+
+
+
+
+/*
+.btn-sign-up-now{
+	border: solid 1px;
+	color: #fff;
+	background-color: #2A0242;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	height: 68px;
+}
+
+*/
+
+
+
+
+
+/* about-us section starts here */
+#about-us {
+	background-color: #2A0242;
+	color: #fff;
+	text-align: center;
+}
+
+#about-us h3{
+	font-weight: bold;
+}
+
+#about-us p {
+	margin-bottom:	100px;
+}
+
+.african-icon{
+	width: 5rem;
+	border-radius: 100%;
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+
+.hand-made-icon{
+	width:	5rem;
+	border-radius: 100%;
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+
+.giftbox-icon{
+	width: 5rem;
+	border-radius: 100%;
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+
+
+
+/* Testimonial section styling starts here */
+
+#testimonials {
+	background-color: #fff;
+
+
+}
+
+.img-testimonial-1{
+	width: 8rem;
+	border-radius: 100%;
+	margin-top: 10px;
+	margin-bottom: 3rem;
+	margin-left: 35rem;
+
+}
+
+.testimonial-paragraph{
+	color: #2A0242;
+	font-weight: bold;
+	text-align:	center;
+	margin-top: 3rem;
+}
+
+.testimonial-name-description{
+	color: #2A0242;
+	margin-top: 4rem;
+	margin-left: 0;
+}
+
+#Sussan{
+	font-weight: bold;
+}
+
+
+
+/* Pricing section starts here */
+
+.access-headline{
+	padding-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+.access-description{
+	font-size: 20px;
+}
+
+/* Basic Access Pricing */
+#access{
+	background-color: #2A0242;
+	color: #fff;
+
+}
+
+.access_headline_description{
+	text-align: center;
+}
+
+.basic_access{
+	background-color: white;
+	color: #2A0242;
+	text-align: center;
+	width: 19rem;
+	margin-left: 6rem;
+	margin-bottom: 4rem;
+	margin-top: 2rem;
+}
+
+.basic-access-headline{
+	background-color: #EAE9EA;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	font-size: 24px;
+
+}
+
+.headline-free{
+	font-weight: bold;
+	font-size:	40px;
+}
+
+.offer-1{
+	font-size: 16px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.offer-2{
+	font-size: 16px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+
+}
+
+.offer-3{
+	font-size: 16px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.offer-btn{
+	border: solid 1px #2A0242;
+	background-color:	#fff;
+	border-radius: 3px;
+	margin-top: 3rem;
+	margin-bottom: 1rem;
+	padding-left: 6rem;
+	padding-right: 6rem;
+
+}
+
+/* Premium Access Pricing starts here */
+.premium_access{
+	background-color: white;
+	color: #2A0242;
+	text-align: center;
+	width: 19rem;
+	margin-left: 4rem;
+	margin-bottom: 4rem;
+	margin-top: 2rem;
+}
+
+.premium-access-headline{
+	background-color: #EAE9EA;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	font-size: 24px;
+
+}
+
+.premium-pricing{
+	font-weight: bold;
+	font-size:	40px;
+}
+
+.offer-1{
+	font-size: 16px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.offer-2{
+	font-size: 16px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+
+}
+
+.offer-3{
+	font-size: 16px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.premium-offer-btn{
+	border: solid 1px #2A0242;
+	background-color:	#2A0242;
+	color: #fff;
+	border-radius: 3px;
+	margin-top: 3rem;
+	margin-bottom: 1rem;
+	padding-left: 6rem;
+	padding-right: 6rem;
+
+}
+
+
+/* VIP Access Pricing starts here */
+.vip_access{
+	background-color: #fff;
+	color: #2A0242;
+	text-align: center;
+	width: 19rem;
+	margin-left: 2rem;
+	margin-bottom: 4rem;
+	margin-top: 2rem;
+}
+
+.vip-access-headline{
+	background-color: #EAE9EA;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	font-size: 24px;
+
+}
+
+.vip-pricing{
+	font-weight: bold;
+	font-size:	40px;
+}
+
+.offer-1{
+	font-size: 16px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.offer-2{
+	font-size: 16px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+
+}
+
+.offer-3{
+	font-size: 16px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.offer-4{
+	font-size: 16px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.vip-offer-btn{
+	border: solid 1px #2A0242;
+	background-color:	#2A0242;
+	color: #fff;
+	border-radius: 3px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	padding-left: 6rem;
+	padding-right: 6rem;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* shop-now section starts here */
+
+#shop-now{
+	background-color: #fff;
+
+}
+
+
+.shop-now-btn{
+	background-color: #fff;
+	color:	#2A0242;
+	font-size: 22px;
+	font-weight: bold;
+	border: solid 1px #2A0242;
+	border-radius: 5px;
+	padding: 4px 40px ;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.shop-now{
+	text-align: center;
+}
+
+.shopping-item-1{
+	width:	24rem;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.shopping-item1-description{
+	text-align: center;
+	color: #2A0242;
+	margin-top: 2rem;
+	margin-bottom: 3rem;
+}
+
+.shopping-items{
+	text-align: center;
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+/* footer section styling starts here */
+
+
+#contact{
+	background-color: #2A0242;
+	color:	#fff;
+}
+
+.footer-icons{
+	text-align: center;
+	padding-top: 2rem;
+	padding-bottom: 1rem;
+}
+
+.ig{
+	width: 2rem;
+}
+
+.fb{
+	width: 2rem;
+}
+
+.twitter{
+	width: 2rem;
+}
+
+.email_footer{
+	width: 2rem;
+}
+
+.copyright{
+	text-align: center;
+	padding-bottom: 2rem;
+}
+
